@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/jsconfig",
   "engines": {
     "node": "v20.12.2"
   },
